@@ -1,0 +1,9 @@
+body{font-family:"Lucida Console","Courier New",monospace;margin:16px}.resumeContainer{color:#fff}.Two-columns{display:flex;gap:16px}.Two-columns > *{flex-grow:1}.hoverable{border:1px solid transparent}.hoverable:hover{background:#3d5a80;border:1px solid #293241}
+.Header-container{text-align:center;background:#8da9c4;border-radius:8px;padding:16px;margin-bottom:16px}.Header-container img{width:100px;border-radius:50%}.Header-title{color:#fff}
+.About-container p{margin:0}.About-container a{color:#fff}
+.Profile-container{background-color:#0072b1;border-radius:8px;padding:8px 16px;margin-bottom:16px}
+.Experience-container{background-color:#0072b1;border-radius:8px;padding:8px 16px;margin-bottom:16px}
+.Academic-container{background-color:#0072b1;border-radius:8px;padding:8px 16px;margin-bottom:16px}
+.Skills-container{background-color:#0072b1;border-radius:8px;padding:8px 16px;margin-bottom:16px}
+.Interest-container{background-color:#0072b1;border-radius:8px;padding:8px 16px;margin-bottom:16px}
+.Languages-container{background-color:#0072b1;border-radius:8px;padding:8px 16px;margin-bottom:16px}
